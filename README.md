@@ -1,13 +1,5 @@
 # Review Site Backend
 
-**Collaborative School Project**
-This project is a collaborative effort for a school assignment by the following group members:
-
-* Anna Nikiforova
-* Faoziyyah Busari
-* Satellite Nongmaithem
-* Anuj Singh
-
 ---
 
 A Strapi-powered headless CMS backend for managing and serving reviews across multiple categories (Movies, Books, Games, Music). This backend provides a REST API that powers the frontend review site.
