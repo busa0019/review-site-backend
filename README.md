@@ -3,8 +3,8 @@
 **Collaborative School Project**
 This project is a collaborative effort for a school assignment by the following group members:
 
-* Anna Nikiforova
 * Faoziyyah Busari
+* Anna Nikiforova
 * Satellite Nongmaithem
 * Anuj Singh
 
