@@ -1,5 +1,9 @@
-# Review Site Backend
+# Review Site Backend - Headless CMS API
 
+[![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+[![Neon](https://img.shields.io/badge/Neon-00E59B?style=for-the-badge&logo=neon&logoColor=white)](https://neon.tech)
 ---
 
 A Strapi-powered headless CMS backend for managing and serving reviews across multiple categories (Movies, Books, Games, Music). This backend provides a REST API that powers the frontend review site.
